@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hugo <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm Hugo <img height="40" src="https://emoji.gg/emoji/4412_CrashBandicootWhat.png"></h1>
 <h3 align="center">A student who likes to practice programming stuff.</h3>
 
 - 🔭 I’m currently studying in UPAO (computer and systems engineering)
