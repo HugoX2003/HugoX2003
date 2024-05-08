@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Hugo <img height="40" src="https://cdn3.emoji.gg/emojis/4412_CrashBandicootWhat.png"></h1>
-<h3 align="center">A student who likes to practice programming stuff.</h3>
+<h1 align="center">Hi 👋, I'm Hugo</h1>
+<h3 align="center">hemd</h3>
 
 - 🔭 I’m currently studying in UPAO (computer and systems engineering)
 
 - 🌱 I’m currently learning **HTML5, CSS3, Java and Python**
 
 - 📫 How to reach me: **hmarquezd1@gmail.com**
-
-- ⚡ What I like to do: **I like listening to music and playing videogames**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
