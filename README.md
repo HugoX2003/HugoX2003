@@ -21,8 +21,22 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,java,py,linux,figma,notion,vscode" />
+  <a href="https://html5.org/">
+    <img src="https://skillicons.dev/icons?i=html" />
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html">
+    <img src="https://skillicons.dev/icons?i=css" />
+  <a href="https://www.java.com/es/">
+    <img src="https://skillicons.dev/icons?i=java" />
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=py" />
+  <a href="https://www.linux.org/">
+    <img src="https://skillicons.dev/icons?i=linux" />
+  <a href="https://figma.com">
+    <img src="https://skillicons.dev/icons?i=figma" />
+  <a href="https://www.notion.so/es-es">
+    <img src="https://skillicons.dev/icons?i=notion" />
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
 </p>
 
