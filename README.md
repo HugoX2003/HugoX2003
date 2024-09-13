@@ -26,7 +26,7 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=css,html,js,java,py" width="450 em"/> </p>
-<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,windows,linux,figma,notion,github,vscode,astro" width="530 em"/> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,windows,linux,figma,notion,github,vscode,astro,angular" width="530 em"/> </p>
 
 
 <!-- Estadisticas de GitHub !-->
