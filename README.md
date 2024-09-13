@@ -6,7 +6,7 @@
 <!-- Presentación !-->
 - 🔭 I’m currently studying in UPAO (computer and systems engineering)
 
-- 🌱 I’m currently learning **HTML5, CSS3, Java and Python**
+- 🌱 I’m currently learning **HTML5, CSS3, Java, Python and C#**
 
 - 📫 How to reach me: **hmarquezd1@gmail.com**
 
