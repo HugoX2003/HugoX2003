@@ -28,11 +28,12 @@
 
 
 <!-- Estadisticas de GitHub !-->
-<div align="center">
-  
-  <img width=265em src="https://github-readme-stats.vercel.app/api/top-langs?username=HugoX2003&locale=en&hide_title=false&layout=compact&langs_count=10&title_color=ffffff&cache_seconds=20000&icon_color=0096ff&text_color=bac1c6&bg_color=161b22&border_radius=5" alt="languages graph"/>
-
-</div>
+<p align="center">
+<a href="https://github.com/HugoX2003">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HugoX2003&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HugoX2003&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 
