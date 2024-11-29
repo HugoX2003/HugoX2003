@@ -1,18 +1,7 @@
 <!-- Saludito :u !-->
 <h1 align="center">Hi 👋, I'm Hugo</h1>
 
-<h3 align="center">hemd</h3>
 
-<!-- Presentación !-->
-- 🔭 Currently studying in UPAO (computer and systems engineering)
-
-- 🌱 Currently learning **Angular, Android development and Spring Boot**
-
-- 📫 How to reach me: **hmarquezd1@gmail.com**
-
-<!-- Lenguages y herramientas !-->
-<p align="center"> <img src="https://skillicons.dev/icons?i=css,html,js,java,py" width="210 em"/> </p>
-<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,windows,figma,notion,github,vscode,astro,angular" width="450 em"/> </p>
 <!-- Redes !-->
 <h3 align="center">Connect with me:</h3>
 <div align="center">
@@ -30,7 +19,6 @@
 <!-- Estadisticas de GitHub !-->
 <p align="center">
 <a href="https://github.com/HugoX2003">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HugoX2003&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HugoX2003&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
