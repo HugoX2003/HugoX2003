@@ -1,9 +1,46 @@
-<!-- Saludito :u !-->
-<h1 align="center">Hi 👋, I'm Hugo</h1>
+<!-- Cabecera -->
+<h1 align="center">¡Hola 👋! Soy Hugo</h1>
+<h3 align="center">🚀 Apasionado por tecnología y desarrollo web</h3>
 
+---
 
-<!-- Redes !-->
-<h3 align="center">Connect with me:</h3>
+### 🔍 Sobre mí
+- 🎓 Estudiante de Ingeniería de Computación y Sistemas
+- 🌱 Actualmente aprendiendo: **Next.js, Python y DJango**
+
+---
+
+### 🛠 Stack Tecnológico
+#### Frontend:
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+
+#### Backend:
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+
+#### Bases de Datos:
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+#### Herramientas:
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+<p align="center">
+  <a href="https://github.com/HugoX2003">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HugoX2003&show_icons=true&theme=radical&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoX2003&layout=compact&theme=radical&hide=procfile"/>
+  </a>
+</p>
+
+---
+
+### 🌐 Social
 <div align="center">
   
 [![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/_hemd_)
@@ -14,15 +51,4 @@
   
 </div>
 
-
-
-<!-- Estadisticas de GitHub !-->
-<p align="center">
-<a href="https://github.com/HugoX2003">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HugoX2003&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-
-
-
+---
