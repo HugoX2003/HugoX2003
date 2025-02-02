@@ -33,7 +33,6 @@
 
 <p align="center">
   <a href="https://github.com/HugoX2003">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HugoX2003&show_icons=true&theme=radical&include_all_commits=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoX2003&layout=compact&theme=radical&hide=procfile"/>
   </a>
 </p>
