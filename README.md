@@ -6,7 +6,7 @@
 
 ### 🔍 Sobre mí
 - 🎓 Estudiante de Ingeniería de Computación y Sistemas
-- 🌱 Actualmente aprendiendo: **Next.js, Python y DJango**
+- 🌱 Actualmente aprendiendo: **infraestructura cómo código**
 
 ---
 
