@@ -6,7 +6,7 @@
 
 ### 🔍 Sobre mí
 - 🎓 Estudiante de Ingeniería de Computación y Sistemas
-- 🌱 Actualmente aprendiendo: **infraestructura cómo código**
+- 🌱 Actualmente aprendiendo: **infraestructura cómo código (Jenkins, Terraform, Ansible)**
 
 ---
 
