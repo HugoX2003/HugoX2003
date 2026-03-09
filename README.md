@@ -13,7 +13,7 @@
 
 - ⚙️ **Architecture:** Fullstack.
 - 🌍 **Languages:** Spanish (Native) | English (C1).
-- 🤝 **Status:** Open for freelance work and collaboration.
+- 🤝 **Status:** Working at **CorAll (FullStack Developer)** and **AquaWare (DevOps Engineer)**. Open for freelance work and collaboration.
 
 ---
 
