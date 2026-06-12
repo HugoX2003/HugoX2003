@@ -1,37 +1,42 @@
-# ⚡ Hugo Márquez Diestra
-**System Engineer | FullStack Developer | Cloud & DevOps Enthusiast**
+# Hugo Márquez Diestra
+**Systems Engineer · Fullstack Developer · Cloud & DevOps**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hugoxportfolio.netlify.app-00FF00?style=flat-square&logo=netlify&logoColor=black)](https://hugoxportfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hugomarquezdiestra/)
-[![Email](https://img.shields.io/badge/Email-hmarquezd1@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hmarquezd1@gmail.com)
-
----
-
-## 👨‍💻 ABOUT ME
-
-10th-cycle Computer and Systems Engineering student at UPAO (Trujillo, Peru). I specialize in **Frontend Development** with solid **Backend** foundations, currently scaling my skill set into **Cloud Computing, DevOps, and RAG systems**.
-
-- ⚙️ **Architecture:** Fullstack.
-- 🌍 **Languages:** Spanish (Native) | English (C1).
-- 🤝 **Status:** Working at **CorAll (FullStack Developer)** and **AquaWare (DevOps Engineer)**. Open for freelance work and collaboration.
+[![Portfolio](https://img.shields.io/badge/Portfolio-hugoxportfolio.netlify.app-555?style=flat-square&logo=netlify)](https://hugoxportfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hugomarquezdiestra-555?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hugomarquezdiestra/)
+[![Email](https://img.shields.io/badge/Email-hmarquezd1%40gmail.com-555?style=flat-square&logo=gmail)](mailto:hmarquezd1@gmail.com)
 
 ---
 
-## 🛠️ TECH STACK
+## About
 
-**Frontend** <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,astro,angular,tailwind,bootstrap,figma" alt="Frontend Tech" /></a>
+10th-cycle Computer & Systems Engineering student at **UPAO**, Trujillo. Frontend-first, with solid backend foundations, currently expanding into **Cloud, DevOps, and RAG systems**.
 
-**Backend** <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,nodejs,spring,django,kotlin,php,wordpress,solidity" alt="Backend Tech" /></a>
-
-**Databases** <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase" alt="Databases Tech" /></a>
-
-**DevOps & Cloud** <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,nginx,vercel,postman,jenkins" alt="DevOps Tech" /></a>
+- 🏢 **CorAll** - Fullstack Developer &nbsp;·&nbsp; **AquaWare** - DevOps Engineer
+- 🌍 Spanish (Native) · English (C1)
+- 📍 Trujillo, Peru
+- 💬 Open to freelance work and collaboration
 
 ---
 
-## 📊 GITHUB STATS
+## Stack
+
+**Frontend**
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,astro,angular,tailwind,html,css,figma" alt="Frontend" /></a>
+
+**Backend**
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,python,django,nodejs,kotlin,php,solidity" alt="Backend" /></a>
+
+**Databases**
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase" alt="Databases" /></a>
+
+**DevOps & Cloud**
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,jenkins,github,vercel,postman" alt="DevOps" /></a>
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hugox2003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hugox2003&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF00&currStreakNum=00FF00" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HugoX2003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide_title=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HugoX2003&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
